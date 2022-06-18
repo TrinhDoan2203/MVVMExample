@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstValue>123</FirstValue>
+  <SecondValue>456</SecondValue>
+  <Arithmetics>+</Arithmetics>
+  <Result>789</Result>
+  <FVHash>26-D6-A8-AD-97-C7-5F-FC-54-8F-68-73-E5-E9-3C-E4-75-47-9E-3E-1A-10-97-38-1E-54-22-1F-B5-3E-C1-D2</FVHash>
+  <SVHash>46-B3-73-80-5D-BA-1B-DD-40-96-37-54-7E-42-4C-58-AE-53-00-03-CB-3D-1E-F9-89-F1-F8-F1-C0-81-8A-4C</SVHash>
+  <ArithHash>20-60-14-A4-26-6C-20-82-B9-43-30-11-FB-29-91-05-9F-97-2D-57-0A-8B-3C-97-6E-5B-2B-8D-FC-FB-FC-8D</ArithHash>
+  <ResultHash>AD-77-9C-0E-7C-2E-1A-4E-DA-CB-6A-07-87-53-5A-6A-94-6A-B7-87-BF-61-38-6A-3D-40-CF-92-50-45-45-F0</ResultHash>
+</Model>
