@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstValue>1232</FirstValue>
+  <SecondValue>21</SecondValue>
+  <Arithmetics>+</Arithmetics>
+  <Result>1,253.00</Result>
+  <FVHash>88-35-87-E8-9E-A1-58-EA-9E-F3-E5-44-39-62-A8-B2-E8-AA-63-79-1F-B6-FE-8F-7F-E5-85-36-82-D3-1C-1B</FVHash>
+  <SVHash>D7-4A-4B-CE-41-5F-AC-D5-0D-7D-8A-0D-AF-6F-99-A2-B3-C5-00-07-2E-31-F9-D3-1D-0E-C2-9E-DC-09-6F-3B</SVHash>
+  <ArithHash>20-60-14-A4-26-6C-20-82-B9-43-30-11-FB-29-91-05-9F-97-2D-57-0A-8B-3C-97-6E-5B-2B-8D-FC-FB-FC-8D</ArithHash>
+  <ResultHash>43-61-F8-24-45-A2-3F-74-8A-2D-36-48-9B-98-ED-F6-39-C2-81-E1-B0-97-CE-DA-10-97-E4-F6-A6-BD-25-58</ResultHash>
+</Model>
